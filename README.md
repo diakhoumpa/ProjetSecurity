@@ -1,4 +1,4 @@
-# ProjetSecurity
+# ProjetSecurityWeb
 l'application permet à un utilisateur qui s'est inscrit de s'authentifier avec ses crédentials via la page de connexion, 
 ![CaptureLogin](https://user-images.githubusercontent.com/105163720/213943976-b40d20cd-ad85-4c33-9ec3-d8eccc6b60b9.PNG)
 Une fois connecté, l'utilisateur peut ajouté un nouveau compte dans le formulaire de création de compte 
@@ -19,3 +19,21 @@ Dans cette section on a ajout d'un droit (rôle)
 ----------------********* la partie deconnexion d'un utlisateur
 ![image](https://user-images.githubusercontent.com/105163720/213944929-99222d15-18d1-43f8-af2e-cd81f1dd4553.png)
 une fois déconnecter on reviens à la page de connexion pour pouvoir naviguer dans notre l'application
+------------------------------------------------------------------------------------------------------
+# PROJET ScolariteIsi
+
+----------***** la page de connexion
+![image](https://user-images.githubusercontent.com/105163720/213945356-c45c1264-bfd8-40ca-8166-ac4034137bbf.png)
+----------*** l'utilisateur connecté peutvoir la liste des rôles
+![image](https://user-images.githubusercontent.com/105163720/213945514-e7264f97-d2f7-4d17-bba5-37e3a716cc2f.png)
+-----*** Dans cette section on a ajout d'un utilisateur
+![image](https://user-images.githubusercontent.com/105163720/213945562-4c3c9f43-dada-49c7-a455-3fde48da1147.png)
+---------**** Ajout d'un rôle
+![image](https://user-images.githubusercontent.com/105163720/213945661-f106b7ce-59d5-4b38-a69a-3671f5f97f8c.png)
+------------**** Liste des rôles
+![image](https://user-images.githubusercontent.com/105163720/213945739-25f68324-e21f-4581-8d89-267be40cd78f.png)
+------*** connexion à la base reussi avec les utlisateur crées
+![image](https://user-images.githubusercontent.com/105163720/213945784-d07c5eb0-a010-4865-84fd-2f9632d614fc.png)
+--------****** Les rôles attachés a ces utilisateurs
+![image](https://user-images.githubusercontent.com/105163720/213945822-05ddd04b-f00c-47e3-9c3b-b0810b167499.png)
+
